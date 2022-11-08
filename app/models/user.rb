@@ -1,4 +1,5 @@
 class User < ApplicationRecord
+  has_many :posts
   before_save { email.downcase! }
   validates :name, presence: true, length: { minimum: 2 },
                    uniqueness: true
