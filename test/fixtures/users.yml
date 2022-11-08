@@ -3,3 +3,7 @@
 george:
   name: 'George'
   email: 'george@mail.ge'
+
+bill:
+  name: 'Bill'
+  email: 'billhaseeeemail@ex.ru'

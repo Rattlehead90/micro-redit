@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: 'Nice post, George. One more thing: I am Bill.'
+  user: bill
+  post: one
+
+two:
+  content: 'Wow, Bill, nice to meet you. Thx for the comment!'
+  user: george
+  post: one
